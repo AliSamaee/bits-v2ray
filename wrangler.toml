@@ -3,5 +3,5 @@ main = "src/worker.ts"
 compatibility_date = "2024-01-01"
 
 kv_namespaces = [
-  { binding = "settings", id = "KV_NAME" }
+  { binding = "bits-v2ray", id = "7d103702bf0d423abbc6ed6ad45f1e5a" }
 ]
