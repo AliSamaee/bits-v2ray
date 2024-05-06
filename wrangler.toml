@@ -1,4 +1,4 @@
-name = "bits"
+name = "settings"
 main = "src/worker.ts"
 compatibility_date = "2024-01-01"
 
